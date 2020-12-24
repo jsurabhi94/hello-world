@@ -1,4 +1,4 @@
 # hello-world
 
-hi there!!
+Hi there!!
 I am new to this. YAYYYY!!!!
