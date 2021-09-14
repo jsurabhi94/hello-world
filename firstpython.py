@@ -1,2 +1,2 @@
 # Display the file
-print("Hello World")
+print("New python file")
